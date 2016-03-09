@@ -159,10 +159,7 @@
         </plugin>
           <plugin>
           <artifactId>maven-surefire-plugin</artifactId>
-          <configuration>
-
-             <testSourceDirectory>src/test/java/Execute</testSourceDirectory>
-          </configuration>
+         
           <executions>
        		<execution>
       			<phase>test</phase>
