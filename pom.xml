@@ -141,7 +141,7 @@
        		<execution>
       			<phase>test</phase>
       		    <goals>
-        			<goal>test</goal>
+        			<goal>clean test</goal>
       			</goals>
       	     </execution>
             </executions>
