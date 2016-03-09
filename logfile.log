@@ -1,0 +1,58 @@
+2016-02-23 13:24:29,010 INFO  [log] FirefoxDriver Instantiation! 
+2016-02-23 13:24:34,889 INFO  [log] FirefoxDriver Instantiated successfully! 
+2016-02-23 13:24:34,890 INFO  [log] Launch URL 
+2016-02-23 13:24:36,503 INFO  [log] URL Hit Sucessfully! 
+2016-02-23 13:24:36,503 INFO  [log] Authenticate User - Enter Username! 
+2016-02-23 13:24:38,535 INFO  [log] Authenticate User - ClickNext! 
+2016-02-23 13:24:39,147 INFO  [log] Authenticate User - Enter Username! 
+2016-02-23 13:24:39,762 INFO  [log] Authenticate User - ClickNext! 
+2016-02-23 13:24:40,427 INFO  [log] Verify the Home Page Now! 
+2016-02-23 13:24:41,876 INFO  [log] Project Dashboard opened successfully! 
+2016-02-23 13:24:41,876 INFO  [log] Quit Browser 
+2016-02-26 16:20:36,857 INFO  [log] FirefoxDriver Instantiation! 
+2016-02-26 16:20:48,745 INFO  [log] FirefoxDriver Instantiated successfully! 
+2016-02-26 16:20:48,745 INFO  [log] Launch URL 
+2016-02-26 16:20:56,021 INFO  [log] URL Hit Sucessfully! 
+2016-02-26 16:20:56,022 INFO  [log] Authenticate User - Enter Username! 
+2016-02-26 16:21:05,684 INFO  [log] Authenticate User - ClickNext! 
+2016-02-26 16:21:05,993 INFO  [log] Authenticate User - Enter Username! 
+2016-02-26 16:21:46,228 INFO  [log] FirefoxDriver Instantiation! 
+2016-02-26 16:21:52,697 INFO  [log] FirefoxDriver Instantiated successfully! 
+2016-02-26 16:21:52,697 INFO  [log] Launch URL 
+2016-02-26 16:21:54,675 INFO  [log] URL Hit Sucessfully! 
+2016-02-26 16:21:54,676 INFO  [log] Authenticate User - Enter Username! 
+2016-02-26 16:21:56,993 INFO  [log] Authenticate User - ClickNext! 
+2016-02-26 16:21:58,010 INFO  [log] Authenticate User - Enter Username! 
+2016-02-26 16:23:04,889 INFO  [log] FirefoxDriver Instantiation! 
+2016-02-26 16:23:12,243 INFO  [log] FirefoxDriver Instantiated successfully! 
+2016-02-26 16:23:12,243 INFO  [log] Launch URL 
+2016-02-26 16:23:15,203 INFO  [log] URL Hit Sucessfully! 
+2016-02-26 16:23:15,204 INFO  [log] Authenticate User - Enter Username! 
+2016-02-26 16:23:17,208 INFO  [log] Authenticate User - ClickNext! 
+2016-02-26 16:23:18,136 INFO  [log] Authenticate User - Enter Username! 
+2016-02-26 16:23:18,882 INFO  [log] Authenticate User - ClickNext! 
+2016-02-26 16:23:19,552 INFO  [log] Verify the Home Page Now! 
+2016-02-26 16:23:25,489 INFO  [log] Project Dashboard opened successfully! 
+2016-03-08 18:20:32,744 INFO  [log] FirefoxDriver Instantiation! 
+2016-03-08 18:20:51,809 INFO  [log] FirefoxDriver Instantiated successfully! 
+2016-03-08 18:20:51,809 INFO  [log] Launch URL 
+2016-03-08 18:20:58,832 INFO  [log] URL Hit Sucessfully! 
+2016-03-08 18:20:58,835 INFO  [log] Authenticate User - Enter Username! 
+2016-03-08 18:21:03,282 INFO  [log] Authenticate User - ClickNext! 
+2016-03-08 18:21:04,264 INFO  [log] Authenticate User - Enter Username! 
+2016-03-08 18:21:05,314 INFO  [log] Authenticate User - ClickNext! 
+2016-03-08 18:21:06,355 INFO  [log] Verify the Home Page Now! 
+2016-03-08 18:21:14,605 INFO  [log] Project Dashboard opened successfully! 
+2016-03-09 14:25:31,737 INFO  [log] FirefoxDriver Instantiation! 
+2016-03-09 14:26:14,785 INFO  [log] FirefoxDriver Instantiated successfully! 
+2016-03-09 14:26:14,785 INFO  [log] Launch URL 
+2016-03-09 14:26:30,531 INFO  [log] FirefoxDriver Instantiation! 
+2016-03-09 14:26:40,989 INFO  [log] FirefoxDriver Instantiated successfully! 
+2016-03-09 14:26:40,990 INFO  [log] Launch URL 
+2016-03-09 14:26:43,821 INFO  [log] URL Hit Sucessfully! 
+2016-03-09 14:26:43,823 INFO  [log] Authenticate User - Enter Username! 
+2016-03-09 14:26:49,255 INFO  [log] Authenticate User - ClickNext! 
+2016-03-09 14:26:50,704 INFO  [log] Authenticate User - Enter Username! 
+2016-03-09 14:26:51,971 INFO  [log] Authenticate User - ClickNext! 
+2016-03-09 14:26:52,996 INFO  [log] Verify the Home Page Now! 
+2016-03-09 14:27:01,170 INFO  [log] Project Dashboard opened successfully! 
