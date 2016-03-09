@@ -133,6 +133,19 @@
   <build>
         <plugins>
           <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-clean-plugin</artifactId>
+            <version>3.0.0</version>
+            <executions>
+                <execution>
+                    <phase>test</phase>
+                    <goals>
+                        <goal>clean</goal>
+                    </goals>
+                </execution>
+            </executions>
+        </plugin>
+          <plugin>
           <artifactId>maven-surefire-plugin</artifactId>
           <configuration>
              <skip>false</skip>
