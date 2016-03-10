@@ -54,7 +54,7 @@ public void Verify_homepage()
 
 }
 
-@Before({"@RunMe"})
+@Before()
 public void beforeScenario(){
 	DriverScript DS = new DriverScript();
 	  try {
